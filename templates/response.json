@@ -1,0 +1,20 @@
+{
+  "fulfillmentText": "This is a text response",
+  "fulfillmentMessages": [
+    {
+
+    }
+  ],
+  "source": "example.com",
+  "payload": {
+
+  },
+  "outputContexts": [
+    {
+
+    }
+  ],
+  "followupEventInput": {
+
+  }
+}
